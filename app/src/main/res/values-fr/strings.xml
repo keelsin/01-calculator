@@ -6,4 +6,8 @@
     <string name="enter_hint">Entrez un numero</string>
     <string name="result">La response sera ici</string>
     <string name="validate">Vous devez entrer uniquement des nombres</string>
+    <string name="clear">Clair</string>
+    <string name="divide">Diviser</string>
+    <string name="multiply">Multiplier</string>
+    <string name="subtract">Soustraire</string>
 </resources>

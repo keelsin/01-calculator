@@ -42,7 +42,7 @@
         android:textColor="#009900"
         android:background="#1f3d7a"
         android:onClick="subtractNums"
-        android:text="Subtract" />
+        android:text="@string/subtract" />
 
     <Button
         android:id="@+id/divide"
@@ -51,7 +51,7 @@
         android:textColor="#009900"
         android:background="#152951"
         android:onClick="divideNums"
-        android:text="Divide" />
+        android:text="@string/divide" />
 
     <Button
         android:id="@+id/multiply"
@@ -60,7 +60,7 @@
         android:textColor="#009900"
         android:background="#0a1429"
         android:onClick="multiplyNums"
-        android:text="Multiply" />
+        android:text="multiply" />
 
     <TextView
         android:id="@+id/result"
@@ -76,5 +76,5 @@
         android:textColor="#009900"
         android:background="#000000"
         android:onClick="clearFields"
-        android:text="Clear" />
+        android:text="@string/clear" />
 </LinearLayout>
