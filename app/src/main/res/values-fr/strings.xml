@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="add">Ajouter</string>
+    <string name="div_check">Vous ne pouvez pas diviser par 0</string>
+    <string name="enter_hint">Entrez un numero</string>
+    <string name="result">La response sera ici</string>
+    <string name="validate">Vous devez entrer uniquement des nombres</string>
+</resources>
